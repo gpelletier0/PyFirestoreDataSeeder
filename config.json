@@ -1,0 +1,11 @@
+{
+  "environment": {
+    "GOOGLE_APPLICATION_CREDENTIALS": "",
+    "GCLOUD_PROJECT": "",
+    "FIRESTORE_EMULATOR_HOST": ""
+  },
+  "quantities": {
+    "users": 20,
+    "companies": 5
+  }
+}
