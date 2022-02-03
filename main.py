@@ -2,7 +2,7 @@ import json
 import os
 from os import path
 import firebase_admin
-from pyFirebase import FirebaseAuth, FirebaseFirestore
+from PyFirebase import FirebaseAuth, FirebaseFirestore
 
 config_file = "config.json"
 
